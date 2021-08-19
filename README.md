@@ -1,4 +1,11 @@
 # otp
+1.Flutter create "Otp"
+2.Copy the code or download the floder 
+3.Download the dependence
+
+#link of working project video
+- [Youtube Video](https://youtu.be/TyzdSsTbShQ)
+
 
 A new Flutter project.
 
